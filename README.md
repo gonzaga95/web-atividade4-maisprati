@@ -68,7 +68,7 @@ Criar uma página web profissional responsiva utilizando HTML5 e CSS3, aplicando
 
 ## 🚀 Como Visualizar
 
-    - Acesse no [GitHub Pages](https://gonzaga95.github.io/web-atividade4-maisprati/)
+   ➡️ Acesse no [GitHub Pages](https://gonzaga95.github.io/web-atividade4-maisprati/)
 
 ---
 
