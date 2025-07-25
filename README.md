@@ -61,7 +61,7 @@ Criar uma página web profissional responsiva utilizando HTML5 e CSS3, aplicando
 
 ```
 📁 atividade4-exercicios/
-├── 📄 perfil.html      # Página principal
+├── 📄 index.html      # Página principal
 ├── 🎨 styles.css       # Estilos CSS
 └── 📖 README.md        # Documentação
 ```
